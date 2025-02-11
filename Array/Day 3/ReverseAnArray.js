@@ -17,6 +17,5 @@ function reverseArray(arr) {
  return res;
 }
 
-
 let arr = [1, 2, 3, 4, 5, 6, 1, 2, 3, 1, 23, 4];
 console.log(reverseArray(arr));
